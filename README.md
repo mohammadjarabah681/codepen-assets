@@ -1,6 +1,6 @@
 <h1 align='center'>Codepen Assets</h1>
 
-I host the assets of the projects I publish on my [Codepen](https://codepen.io/mohammadjarabah) profile via Github, and it's amazing and seamless ✨. After uploading assets of the specific pen, I call it on the project via a URL like this:
+I host my [Codepen](https://codepen.io/mohammadjarabah) projects assets on Github. The process is really seamless and comfortable ✨. I just add the assets to this repo via Git and use them on a project via the bottom URL formula.
 
 ```html
 https://raw.githubusercontent.com/mohammadjarabah/codepen-assets/main/pens/<PEN_ID>/<ASSET_PATH>
