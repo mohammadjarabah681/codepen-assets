@@ -11,4 +11,4 @@ https://raw.githubusercontent.com/mohammadahmadjarabah/codepen-assets/main/pens/
 
 | URL | Result |
 | :-- | :----- |
-| `https://raw.githubusercontent.com/mohammadahmadjarabah/codepen-assets/main/pens/dyjrRrX/images/equilibrium.jpg` | <img width='100px' src='./pens/dyjrRrX/images/equilibrium.jpg'/> |
+| `https://raw.githubusercontent.com/mohammadahmadsjarabah/codepen-assets/main/pens/dyjrRrX/images/equilibrium.jpg` | <img width='100px' src='./pens/dyjrRrX/images/equilibrium.jpg'/> |
